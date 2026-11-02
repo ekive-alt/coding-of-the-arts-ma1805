@@ -1,1 +1,2 @@
-this is for my coding of the arts class 
+mini portfolio 
+Emaan Lone
